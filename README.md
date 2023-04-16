@@ -18,8 +18,8 @@ Put up a single page on the Camden Council website showing the total carbon and 
 
 **Project Objective**:
 
--The main objective for this project was to evaluate the data and determine the extent to which this is possible.
-- Use Python to conduct analysis on the data 
+- The main objective for this project was to evaluate the data and determine the extent to which this is possible.
+- Use **Python** to conduct analysis on the data 
 
 **Attached files**:
 - Jupyter Notebook - this was the workbook I used to conduct the analysis
