@@ -22,6 +22,6 @@ Put up a single page on the Camden Council website showing the total carbon and 
 - Use **Python** to conduct analysis on the data 
 
 **Attached files**:
-- Jupyter Notebook - this was the workbook I used to conduct the analysis
+- Jupyter Notebook PDF - this was the workbook I used to conduct the analysis in PDF form
 - Data source list - I documented the data sources using this list 
 - Data requirements list - this helped with understanding what data is used to satisfy what requirements will help identify gaps and provide vital information required to streamline or automate the data acquisition task
